@@ -1,6 +1,6 @@
 # VueJs 3 Booking
 VueJS 3 booking form during my experiment with:
-* Filtering large JSON files by divide & conquer, filter is made on the background with service worker. Used [Simple Service Worker](https://github.com/israelss/simple-web-worker).
+* Filtering large JSON files by divide & conquer, filtering is made on the background with service worker. Used [Simple Service Worker](https://github.com/israelss/simple-web-worker).
 * VueJS 3 composition API for state management
 * v-Calendar for calendar ranges
 * Handle rules for rooms and passengers
